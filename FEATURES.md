@@ -1,7 +1,7 @@
 # sicktiergit Features Showcase
 
 <div align="center">
-  <img src="assets/logo.png" alt="sicktiergit logo" width="200"/>
+  <img src="assets/logo.jpg" alt="sicktiergit logo" width="200"/>
 </div>
 
 ## Command Comparison: Git vs sg (sicktiergit)

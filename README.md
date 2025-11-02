@@ -160,38 +160,6 @@ See [USAGE.md](USAGE.md) for detailed command documentation.
 
 ---
 
-## Project Structure
-
-```plaintext
-sicktiergit/
-├── assets/
-│   └── logo.png             # Project logo
-├── main.go                  # Entry point
-├── internal/
-│   ├── commands/            # Command implementations
-│   │   ├── executor.go
-│   │   ├── init.go
-│   │   ├── commit.go
-│   │   ├── push.go
-│   │   ├── blame.go
-│   │   ├── therapy.go
-│   │   └── remaining.go
-│   ├── config/              # Configuration management
-│   │   └── config.go
-│   └── ui/                  # User interface utilities
-│       └── ui.go
-├── Makefile                 # Build automation
-├── go.mod                   # Go module definition
-├── README                   # This file
-├── COMMANDS.md              # Quick command reference
-├── USAGE.md                 # Detailed usage guide
-├── INSTALL.md               # Installation instructions
-├── FEATURES.md              # Feature showcase
-└── LICENSE                  # Legal mumbo jumbo
-```
-
----
-
 ## License
 
 MIT, probably. We forgot to check.

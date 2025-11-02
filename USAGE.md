@@ -1,7 +1,7 @@
 # Usage Guide
 
 <div align="center">
-  <img src="assets/logo.png" alt="sicktiergit logo" width="150"/>
+  <img src="assets/logo.jpg" alt="sicktiergit logo" width="150"/>
 </div>
 
 ## Basic Commands
