@@ -1,7 +1,7 @@
 # sicktiergit
 
 <div align="center">
-  <img src="assets/logo.png" alt="sicktiergit logo" width="300"/>
+  <img src="assets/logo.jpg" alt="sicktiergit logo" width="300"/>
   
   <p>
     <img src="https://img.shields.io/badge/version-1.0.0-sick?style=for-the-badge&logo=git&logoColor=white" alt="Version"/>
