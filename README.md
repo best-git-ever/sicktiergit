@@ -92,6 +92,9 @@ Initialize your descent into chaos:
 sg init my-chaotic-repo
 ```
 
+<!-- Demo GIF of initializing a repo -->
+![sg init demo](assets/sg-init.gif)
+
 You are now the proud owner of a repository that will haunt you for years.
 
 Commit your first mistake:
